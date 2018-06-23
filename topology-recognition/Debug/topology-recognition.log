@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  topology-recognition.cpp
+c:\users\johna\documents\visual studio 2017\projects\topology-recognition\topology-recognition\topology-recognition.cpp(113): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\johna\documents\visual studio 2017\projects\topology-recognition\topology-recognition\topology-recognition.cpp(172): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\johna\documents\visual studio 2017\projects\topology-recognition\topology-recognition\topology-recognition.cpp(226): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\johna\documents\visual studio 2017\projects\topology-recognition\topology-recognition\topology-recognition.cpp(268): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  topology-recognition.vcxproj -> c:\users\johna\documents\visual studio 2017\Projects\topology-recognition\Debug\topology-recognition.exe
+  topology-recognition.vcxproj -> c:\users\johna\documents\visual studio 2017\Projects\topology-recognition\Debug\topology-recognition.pdb (Partial PDB)
